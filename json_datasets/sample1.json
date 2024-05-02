@@ -1,0 +1,130 @@
+{
+    "result": [
+      {
+        "status": "active",
+        "name": {
+          "first": "Marcelo",
+          "middle": "Greer",
+          "last": "Bode"
+        },
+        "username": "Marcelo-Bode",
+        "password": "vYzd7yRFxGeXdLD",
+        "emails": [
+          "Gaetano22@gmail.com",
+          "Ryder.Davis99@gmail.com"
+        ],
+        "phoneNumber": "322-913-9763",
+        "location": {
+          "street": "225 Mraz Prairie",
+          "city": "New Richie",
+          "state": "Utah",
+          "country": "Sao Tome and Principe",
+          "zip": "07694-8286",
+          "coordinates": {
+            "latitude": 71.4098,
+            "longitude": 93.4965
+          }
+        },
+        "website": "https://old-sunlamp.com",
+        "domain": "left-bull.info",
+        "job": {
+          "title": "International Research Officer",
+          "descriptor": "Global",
+          "area": "Quality",
+          "type": "Architect",
+          "company": "Maggio - Klocko"
+        },
+        "creditCard": {
+          "number": "4693173696772",
+          "cvv": "312",
+          "issuer": "mastercard"
+        },
+        "uuid": "2edfd7a8-11eb-4f32-93c5-83246daed960",
+        "objectId": "663269d195c332796e641c98"
+      },
+      {
+        "status": "disabled",
+        "name": {
+          "first": "Bertha",
+          "middle": "Phoenix",
+          "last": "Schneider"
+        },
+        "username": "Bertha-Schneider",
+        "password": "Y5uXi2_5H2lKdYN",
+        "emails": [
+          "Dusty.Kulas@gmail.com",
+          "Danial_Grimes90@gmail.com"
+        ],
+        "phoneNumber": "(667) 620-4430 x74172",
+        "location": {
+          "street": "9831 Anahi Parks",
+          "city": "Oak Lawn",
+          "state": "Arkansas",
+          "country": "Mexico",
+          "zip": "71087",
+          "coordinates": {
+            "latitude": 82.1783,
+            "longitude": 25.4734
+          }
+        },
+        "website": "https://windy-subconscious.com/",
+        "domain": "exciting-lyrics.com",
+        "job": {
+          "title": "Customer Group Assistant",
+          "descriptor": "Direct",
+          "area": "Factors",
+          "type": "Executive",
+          "company": "Cartwright - Stokes"
+        },
+        "creditCard": {
+          "number": "3726-009556-90273",
+          "cvv": "401",
+          "issuer": "jcb"
+        },
+        "uuid": "2b959310-c73c-4dd2-8ad3-6f8df68ca5fc",
+        "objectId": "663269d195c332796e641c99"
+      },
+      {
+        "status": "active",
+        "name": {
+          "first": "Jaquelin",
+          "middle": "Kendall",
+          "last": "Streich"
+        },
+        "username": "Jaquelin-Streich",
+        "password": "u9b0nkHZYJtdghg",
+        "emails": [
+          "Easton9@example.com",
+          "Irma_Bernhard@example.com"
+        ],
+        "phoneNumber": "1-619-414-7291",
+        "location": {
+          "street": "1876 Hector Trace",
+          "city": "Halvorsonside",
+          "state": "Massachusetts",
+          "country": "Christmas Island",
+          "zip": "41150",
+          "coordinates": {
+            "latitude": -64.531,
+            "longitude": -96.5845
+          }
+        },
+        "website": "https://tense-shampoo.name/",
+        "domain": "robust-priority.org",
+        "job": {
+          "title": "National Marketing Representative",
+          "descriptor": "Corporate",
+          "area": "Infrastructure",
+          "type": "Liaison",
+          "company": "O'Hara LLC"
+        },
+        "creditCard": {
+          "number": "3729-456681-00239",
+          "cvv": "448",
+          "issuer": "diners_club"
+        },
+        "uuid": "9f4e2cc5-93de-43da-a96a-c098a00ddc9e",
+        "objectId": "663269d195c332796e641c9a"
+      }
+    ]
+  }
