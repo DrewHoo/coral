@@ -5,16 +5,16 @@ import data3 from 'json_datasets/sample3.json';
 
 
 
-export function DisplayStaticJson() {
+export function FetchDatasets() {
     return (
-        <div>
-            <h1>Data from File 1</h1>
-            <pre>{JSON.stringify(data1, null, 2)}</pre>
-            <h1>Data from File 2</h1>
-            <pre>{JSON.stringify(data2, null, 2)}</pre>
-            <h1>Data from File 3</h1>
-            <pre>{JSON.stringify(data3, null, 2)}</pre>
-        </div>
+        <label>
+            Choose dataset:
+            <select name="selectedDataset">
+                <option value="sample1"> Sample1 </option>
+                <option value="sample2"> Sample2 </option>
+                <option value="sample3"> Sample3 </option>
+            </select>
+        </label>
     );
 };
 

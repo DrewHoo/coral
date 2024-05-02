@@ -1,6 +1,7 @@
 import { auth, signOut } from 'app/auth';
 // import { useFormStatus } from 'react-dom';
 import { ViewDatasets } from './viewDatasets';
+import { FetchDatasets } from './fetchDatasets';
 
 
 export default async function ProtectedPage() {
@@ -12,6 +13,7 @@ export default async function ProtectedPage() {
         You are logged in as {session?.user?.email}
         <SignOut />
        <ViewDatasets />
+       <FetchDatasets />
       </div>
     </div>
   );
