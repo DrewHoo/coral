@@ -10,7 +10,7 @@ export const datasets = pgTable(
     },
     (datasets) => {
         return {
-            uniqueIdx: uniqueIndex('unique_idx').on(datasets.name),
+            uniqueIdx: uniqueIndex('ds_unique_idx').on(datasets.name),
         };
     },
 );

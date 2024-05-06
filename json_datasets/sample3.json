@@ -1,0 +1,130 @@
+{
+    "result": [
+      {
+        "status": "disabled",
+        "name": {
+          "first": "Randal",
+          "middle": "Reagan",
+          "last": "Boehm"
+        },
+        "username": "Randal-Boehm",
+        "password": "mgL8otaKPsPQDaI",
+        "emails": [
+          "Lavada55@gmail.com",
+          "Isabelle86@example.com"
+        ],
+        "phoneNumber": "935-359-0271",
+        "location": {
+          "street": "3154 Kilback Valleys",
+          "city": "Fort Conniefield",
+          "state": "Tennessee",
+          "country": "Netherlands",
+          "zip": "77247",
+          "coordinates": {
+            "latitude": 24.8443,
+            "longitude": -133.3019
+          }
+        },
+        "website": "https://alarmed-advice.net/",
+        "domain": "honest-divide.name",
+        "job": {
+          "title": "Senior Identity Engineer",
+          "descriptor": "Customer",
+          "area": "Implementation",
+          "type": "Strategist",
+          "company": "Mills LLC"
+        },
+        "creditCard": {
+          "number": "6476-7725-3947-0589",
+          "cvv": "100",
+          "issuer": "mastercard"
+        },
+        "uuid": "3ee2f9f2-8ec0-4232-a3ff-edca900a2d73",
+        "objectId": "66326abb95c332796e641c9e"
+      },
+      {
+        "status": "active",
+        "name": {
+          "first": "Omer",
+          "middle": "Finley",
+          "last": "Rowe"
+        },
+        "username": "Omer-Rowe",
+        "password": "6pdbo1GcPrzjHAR",
+        "emails": [
+          "Easter_Grant64@gmail.com",
+          "Janick.Brown49@example.com"
+        ],
+        "phoneNumber": "495-888-8663 x6915",
+        "location": {
+          "street": "778 Arnold Corners",
+          "city": "Fort Willow",
+          "state": "California",
+          "country": "France",
+          "zip": "70725-5484",
+          "coordinates": {
+            "latitude": 47.8898,
+            "longitude": 94.2813
+          }
+        },
+        "website": "https://stark-literature.net/",
+        "domain": "leading-continuity.net",
+        "job": {
+          "title": "Regional Configuration Liaison",
+          "descriptor": "Principal",
+          "area": "Quality",
+          "type": "Producer",
+          "company": "Stoltenberg LLC"
+        },
+        "creditCard": {
+          "number": "6304-9496-3385-4888",
+          "cvv": "968",
+          "issuer": "discover"
+        },
+        "uuid": "bf2b8987-9dc6-4f55-a5f4-6ca61bde7aea",
+        "objectId": "66326abb95c332796e641c9f"
+      },
+      {
+        "status": "disabled",
+        "name": {
+          "first": "Cecile",
+          "middle": "Emerson",
+          "last": "Fritsch"
+        },
+        "username": "Cecile-Fritsch",
+        "password": "3qkNLJYbqeKb764",
+        "emails": [
+          "Theron7@example.com",
+          "Arnoldo60@gmail.com"
+        ],
+        "phoneNumber": "1-522-458-4854 x13287",
+        "location": {
+          "street": "507 Gaetano Inlet",
+          "city": "Fort Yesenia",
+          "state": "Louisiana",
+          "country": "American Samoa",
+          "zip": "91339",
+          "coordinates": {
+            "latitude": -40.5,
+            "longitude": 2.9006
+          }
+        },
+        "website": "https://creamy-congo.biz",
+        "domain": "pungent-dare.info",
+        "job": {
+          "title": "Senior Operations Coordinator",
+          "descriptor": "Regional",
+          "area": "Configuration",
+          "type": "Orchestrator",
+          "company": "Feeney - Mohr"
+        },
+        "creditCard": {
+          "number": "3019-094839-0466",
+          "cvv": "144",
+          "issuer": "maestro"
+        },
+        "uuid": "f2afc1b6-ba58-433e-8ac6-8931d32e7cbe",
+        "objectId": "66326abb95c332796e641ca0"
+      }
+    ]
+  }

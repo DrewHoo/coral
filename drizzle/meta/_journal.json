@@ -8,6 +8,34 @@
       "when": 1713119277688,
       "tag": "0000_clear_wiccan",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1713896222523,
+      "tag": "0001_yielding_crystal",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1713896595712,
+      "tag": "0002_yielding_felicia_hardy",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1713897304035,
+      "tag": "0003_brainy_the_phantom",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1713897497319,
+      "tag": "0004_strong_retro_girl",
+      "breakpoints": true
     }
   ]
 }

@@ -1,0 +1,130 @@
+{
+    "result": [
+      {
+        "status": "active",
+        "name": {
+          "first": "Jaycee",
+          "middle": "North",
+          "last": "Von"
+        },
+        "username": "Jaycee-Von",
+        "password": "jCEaxn28ogUw2KZ",
+        "emails": [
+          "Carrie.Nikolaus68@gmail.com",
+          "Oliver52@example.com"
+        ],
+        "phoneNumber": "281-838-4219",
+        "location": {
+          "street": "8096 Boyer Ridge",
+          "city": "East Felixfield",
+          "state": "Arizona",
+          "country": "New Zealand",
+          "zip": "10667-6108",
+          "coordinates": {
+            "latitude": 25.4275,
+            "longitude": 69.8431
+          }
+        },
+        "website": "https://speedy-spoon.info/",
+        "domain": "medical-equivalent.org",
+        "job": {
+          "title": "Human Branding Developer",
+          "descriptor": "Legacy",
+          "area": "Paradigm",
+          "type": "Strategist",
+          "company": "Schamberger LLC"
+        },
+        "creditCard": {
+          "number": "6487-6282-7223-2385-6744",
+          "cvv": "147",
+          "issuer": "visa"
+        },
+        "uuid": "df74165a-b9ca-45b8-a62b-a5c26e1effa0",
+        "objectId": "66326a1f95c332796e641c9b"
+      },
+      {
+        "status": "disabled",
+        "name": {
+          "first": "Letitia",
+          "middle": "Sage",
+          "last": "Lubowitz"
+        },
+        "username": "Letitia-Lubowitz",
+        "password": "vnh6cKExNwF9Xee",
+        "emails": [
+          "Lula_Bernier44@example.com",
+          "Amos.Brakus@example.com"
+        ],
+        "phoneNumber": "1-276-952-7558 x3072",
+        "location": {
+          "street": "15049 Aniyah Summit",
+          "city": "West Nataliestead",
+          "state": "Maryland",
+          "country": "Mauritius",
+          "zip": "25921",
+          "coordinates": {
+            "latitude": -44.6099,
+            "longitude": -84.8352
+          }
+        },
+        "website": "https://triangular-dolor.info/",
+        "domain": "barren-cyclooxygenase.org",
+        "job": {
+          "title": "Internal Web Producer",
+          "descriptor": "Regional",
+          "area": "Security",
+          "type": "Manager",
+          "company": "Fritsch - Collier"
+        },
+        "creditCard": {
+          "number": "3564-1108-6486-3526",
+          "cvv": "169",
+          "issuer": "diners_club"
+        },
+        "uuid": "8cdb2f5b-96e9-44bd-a053-191aa5d3d15b",
+        "objectId": "66326a1f95c332796e641c9c"
+      },
+      {
+        "status": "active",
+        "name": {
+          "first": "Grayce",
+          "middle": "Sasha",
+          "last": "Walker"
+        },
+        "username": "Grayce-Walker",
+        "password": "DQ9Y486sLP6swvv",
+        "emails": [
+          "Ryleigh_Pollich@example.com",
+          "Wallace.Sawayn77@gmail.com"
+        ],
+        "phoneNumber": "531-649-5846 x70843",
+        "location": {
+          "street": "595 Myrtie Ville",
+          "city": "Fort Jasonside",
+          "state": "Mississippi",
+          "country": "Antarctica",
+          "zip": "20384-1726",
+          "coordinates": {
+            "latitude": -11.0533,
+            "longitude": 34.5131
+          }
+        },
+        "website": "https://warped-abdomen.info",
+        "domain": "superior-pitch.org",
+        "job": {
+          "title": "Product Division Developer",
+          "descriptor": "Direct",
+          "area": "Solutions",
+          "type": "Agent",
+          "company": "Kreiger - Ward"
+        },
+        "creditCard": {
+          "number": "6771-8983-2430-4378",
+          "cvv": "580",
+          "issuer": "maestro"
+        },
+        "uuid": "fb0237f3-1020-49fd-adad-096a288d5c50",
+        "objectId": "66326a1f95c332796e641c9d"
+      }
+    ]
+  }
