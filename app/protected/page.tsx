@@ -1,19 +1,19 @@
 import { auth, signOut } from 'app/auth';
+import * as React from 'react';
 // import { useFormStatus } from 'react-dom';
 import { ViewDatasets } from './viewDatasets';
 import { FetchDatasets } from './fetchDatasets';
+import { Datasets } from './Datasets';
 
 
 export default async function ProtectedPage() {
   let session = await auth();
-
   return (
     <div className="flex h-screen bg-black">
       <div className="w-screen h-screen flex flex-col space-y-5 justify-center items-center text-white">
         You are logged in as {session?.user?.email}
         <SignOut />
-       <ViewDatasets />
-       <FetchDatasets />
+        <Datasets />
       </div>
     </div>
   );

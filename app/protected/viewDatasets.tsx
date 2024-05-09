@@ -1,5 +1,9 @@
 "use client"
 import { FetchDatasets } from './fetchDatasets';
+import data1 from 'json_datasets/sample1.json';
+import data2 from 'json_datasets/sample2.json';
+import data3 from 'json_datasets/sample3.json';
+
 
 function clickMe() {
     alert("You clicked me!");

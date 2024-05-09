@@ -5,11 +5,11 @@ import data3 from 'json_datasets/sample3.json';
 
 
 
-export function FetchDatasets() {
+export function FetchDatasets(props) {
     return (
         <label>
             Choose dataset:
-            <select name="selectedDataset">
+            <select onChange={(e)=>props.setSelectedDataset(e.target.value)} name="selectedDataset">
                 <option value="sample1"> Sample1 </option>
                 <option value="sample2"> Sample2 </option>
                 <option value="sample3"> Sample3 </option>
